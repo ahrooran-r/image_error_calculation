@@ -1,0 +1,7 @@
+./source/*
+!source/.gitkeep
+
+./target/*
+!target/.gitkeep
+
+.idea/*
